@@ -11,6 +11,10 @@
 - Ferramentas: Git, Docker, VS Code
 - Frameworks: React, Angular, Nest
 
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardosilsantos)
+
 
 
 <!--
