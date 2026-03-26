@@ -1,5 +1,5 @@
 ## 👋🏻👨🏻‍💻 Olá, eu sou Eduardo!
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
 💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas formado pela 🎓[Unisinos](https://www.unisinos.br/)
 
