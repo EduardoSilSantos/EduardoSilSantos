@@ -1,4 +1,17 @@
-## Hi there 👋
+## 👋 Olá, eu sou [Seu Nome]
+
+🎓💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+🔍 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e colaborar com equipes inovadoras.
+
+🚀 Motivado pelo aprendizado constante, espírito de equipe e capacidade de adaptação, estou preparado para contribuir de forma significativa em ambientes que valorizem inovação, colaboração e excelência.
+
+🛠️ Tecnologias e Ferramentas
+- Linguagens: Java, Python, JavaScript, TypeScript
+- Ferramentas: Git, Docker, VS Code
+- Frameworks: React, Angular, Nest
+
+
 
 <!--
 **EduardoSilSantos/EduardoSilSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
