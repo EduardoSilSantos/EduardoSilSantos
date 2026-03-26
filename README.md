@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou [Seu Nome]
+## 👋 Olá, eu sou Eduardo!
 
 🎓💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas
 
