@@ -20,7 +20,7 @@
     alt="HTML" 
     title="HTML" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
 </a>
@@ -30,7 +30,7 @@
     alt="CSS" 
     title="CSS" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -39,7 +39,7 @@
     alt="JavaScript" 
     title="JavaScript" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
 </a>
@@ -49,7 +49,7 @@
     alt="TypeScript" 
     title="TypeScript" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </a>
 <a href="https://pt-br.react.dev/">
@@ -58,7 +58,7 @@
     alt="React" 
     title="React" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </a>
 <a href="https://angular.dev/">
@@ -67,7 +67,7 @@
     alt="Angular" 
     title="Angular" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 </a>
 <a href="https://nestjs.com/">
@@ -76,7 +76,7 @@
     alt="NestJS" 
     title="NestJS" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </a>
 <a href="https://git-scm.com/">
@@ -85,7 +85,7 @@
     alt="Git" 
     title="Git" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </a>
 <a href="https://www.docker.com/">
@@ -94,7 +94,7 @@
     alt="Docker" 
     title="Docker" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 </a>
 <a href="https://code.visualstudio.com/">
@@ -103,7 +103,7 @@
     alt="VS Code" 
     title="VS Code" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </a>
 <a href="https://nodejs.org/pt-br">
@@ -112,7 +112,7 @@
     alt="NodeJS" 
     title="NodeJS" 
     width="30px"
-    style="padding-right : 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </a>
 <a href="https://www.python.org/">
@@ -121,20 +121,19 @@
   alt="Python" 
   title="Python" 
   width="30px"
-  style="padding-right : 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </a>
 <a href="https://www.java.com/pt-br/">
-<img 
-  align="left"
+<img
   alt="Java" 
   title="Java" 
   width="30px"
-  style="padding-right : 10px;"
+  style="floating: left; padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-</a><br><br>  
-<p>Fonte: <a href="https://devicon.dev">Devicon</a></p>
+</a>
 
+**Fonte: [Devicon](https://devicon.dev)**
 
 ## 📊 Estatísticas
 
