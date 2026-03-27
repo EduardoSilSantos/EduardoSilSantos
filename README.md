@@ -133,8 +133,8 @@
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </a><br><br>  
+<p>Fonte: <a href="https://devicon.dev">Devicon</a></p>
 
-**Fonte: [Devicon](https://devicon.dev)**
 
 ## 📊 Estatísticas
 
