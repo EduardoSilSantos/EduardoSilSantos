@@ -95,12 +95,21 @@
   width="30px"
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<br>
+<br/>
+<br/>
 
 - Linguagens: JavaScript, TypeScript, Java, Python;
 - Ferramentas: Git, Docker, VS Code;
 - Frameworks: React, Angular, Nest;
 
+## 📊 Estatísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSilSantos&theme=gruvbox-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## 🌐 Conecte-se comigo
+<a href="https://linkedin.com/in/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/eduardosilsantos"><img src="https://img.shields.io/badge/-black?logo=github" width="50" height="50" /></a>
+<!-- <a href="https://github.com/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></a> -->
 
 <p align="left">
 <!-- <a href="https://www.youtube.com/@eduardoweb?sub_confirmation=1">
@@ -111,11 +120,8 @@
 <img alt="seguidores" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/EduardoSilSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
 <a href="https://github.com/EduardoSilSantos?tab=repositories&sort=stargazers">
 <img alt="total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EduardoSilSantos?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"/></a>
-</p>          
+</p>  
 
-## 🌐 Conecte-se comigo
-<a href="https://linkedin.com/in/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></a>    
 
 <!--
 **EduardoSilSantos/EduardoSilSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
