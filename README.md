@@ -3,7 +3,6 @@
 
 💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas formado pela 🎓&nbsp;[Unisinos](https://www.unisinos.br/)
 
-
 🔍 Sempre busco oportunidades para aplicar meus conhecimentos em projetos reais e colaborar com equipes inovadoras.
 
 🚀 Motivado pelo aprendizado constante, espírito de equipe e capacidade de adaptação, estou preparado para contribuir de forma significativa em ambientes que valorizem inovação, colaboração e excelência.
@@ -11,7 +10,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 - Linguagens: JavaScript, TypeScript, Java, Python;
-- Ferramentas: Git, Docker, VS Code;
+- Ferramentas: Git, Docker, VS Code, NodeJS;
 - Frameworks: React, Angular, NestJS;
 
 
@@ -107,6 +106,15 @@
     style="padding-right : 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </a>
+<a href="https://nodejs.org/pt-br">
+  <img 
+    align="left"
+    alt="NodeJS" 
+    title="NodeJS" 
+    width="30px"
+    style="padding-right : 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+</a>
 <a href="https://www.python.org/">
 <img 
   align="left"
@@ -125,6 +133,7 @@
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </a><br><br>
+
 
 **Fonte: [Devicon](https://devicon.dev)**
 
