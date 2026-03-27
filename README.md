@@ -1,4 +1,4 @@
-## 👋🏻👨🏻‍💻 Olá, eu sou Eduardo!
+# [![👋🏻👨🏻‍💻 Olá, eu sou Eduardo!](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=32&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Ol%C3%A1%2C+eu+sou+Eduardo!)](https://github.com/eduardosilsantos)
 **`Desenvolvedor Full Stack`**
 
 💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas formado pela 🎓&nbsp;[Unisinos](https://www.unisinos.br/)
@@ -137,7 +137,7 @@
 
 ## 📊 Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSilSantos&theme=gruvbox-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSilSantos&theme=gruvbox-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://github.com/eduardosilsantos)
 
 ## 🌐 Conecte-se comigo
 <a href="https://linkedin.com/in/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
@@ -153,6 +153,8 @@
 
 [![seguidores](https://custom-icon-badges.demolab.com/github/followers/EduardoSilSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white "Siga-me no Github")](https://github.com/EduardoSilSantos?tab=followers)
 [![total de estrelas](https://custom-icon-badges.demolab.com/github/stars/EduardoSilSantos?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas "Total de estrelas no GitHub")](https://github.com/EduardoSilSantos?tab=repositories&sort=stargazers)
+
+**Estilizado com 🎨[Demolab](https://demolab.com/)✨**
 
 <!--
 **EduardoSilSantos/EduardoSilSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
