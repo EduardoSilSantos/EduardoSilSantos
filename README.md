@@ -62,36 +62,36 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img 
   align="left"
-  alt="git" 
-  title="git" 
+  alt="Git" 
+  title="Git" 
   width="30px"
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img 
   align="left"
-  alt="docker" 
-  title="docker" 
+  alt="Docker" 
+  title="Docker" 
   width="30px"
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img 
   align="left"
-  alt="vscode" 
-  title="vscode" 
+  alt="VS Code" 
+  title="VS Code" 
   width="30px"
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img 
   align="left"
-  alt="python" 
-  title="python" 
+  alt="Python" 
+  title="Python" 
   width="30px"
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 <img 
   align="left"
-  alt="python" 
-  title="python" 
+  alt="Java" 
+  title="Java" 
   width="30px"
   style="padding-right : 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -100,7 +100,7 @@
 
 - Linguagens: JavaScript, TypeScript, Java, Python;
 - Ferramentas: Git, Docker, VS Code;
-- Frameworks: React, Angular, Nest;
+- Frameworks: React, Angular, NestJS;
 
 ## 📊 Estatísticas
 
