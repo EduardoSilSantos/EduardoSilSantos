@@ -13,7 +13,6 @@
 - Ferramentas: Git, Docker, VS Code, NodeJS;
 - Frameworks: React, Angular, NestJS;
 
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img 
     align="left"
@@ -142,6 +141,7 @@
 ## 🌐 Conecte-se comigo
 <a href="https://linkedin.com/in/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/eduardosilsantos"><img src="https://img.shields.io/badge/-black?logo=github" width="50" height="50" /></a>
+### 🧩[GitHub Gists](https://gist.github.com/EduardoSilSantos)
 
 <!-- <a href="https://github.com/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></a> -->
 
