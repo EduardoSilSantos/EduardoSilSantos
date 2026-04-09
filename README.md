@@ -12,6 +12,7 @@
 - Linguagens: JavaScript, TypeScript, Java, Python;
 - Ferramentas: Git, Docker, VS Code, NodeJS;
 - Frameworks: React, Angular, NestJS;
+- Testes: Jest;
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img 
@@ -125,11 +126,20 @@
 </a>
 <a href="https://www.java.com/pt-br/">
 <img
+  align="left"
   alt="Java" 
   title="Java" 
   width="30px"
-  style="floating: left; padding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</a>
+<a href="https://jestjs.io/">
+<img
+  alt="Jest" 
+  title="Jest" 
+  width="30px"
+  style="floating: left; padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </a>
 
 **Fonte: [Devicon](https://devicon.dev)**
