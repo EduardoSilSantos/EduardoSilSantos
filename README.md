@@ -1,5 +1,5 @@
 [![English](https://img.shields.io/badge/lang-English-blue?labelColor=red)](README.en.md)
-[![Português](https://img.shields.io/badge/lang-Português-green?labelColor=yellow)](README.md)
+[![Português](https://img.shields.io/badge/lang-Português-green?labelColor=yellow)](https://github.com/eduardosilsantos)
 
 # [![👋🏻👨🏻‍💻 Olá, eu sou Eduardo!](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=32&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Ol%C3%A1%2C+eu+sou+Eduardo!)](https://github.com/eduardosilsantos)
 **`Desenvolvedor Full Stack`**
