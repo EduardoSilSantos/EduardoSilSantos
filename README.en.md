@@ -1,21 +1,21 @@
-[![English](https://img.shields.io/badge/lang-English-blue?labelColor=red)](README.en.md)
 [![Português](https://img.shields.io/badge/lang-Português-green?labelColor=yellow)](README.md)
+[![English](https://img.shields.io/badge/lang-English-blue?labelColor=red)](README.en.md)
 
-# [![👋🏻👨🏻‍💻 Olá, eu sou Eduardo!](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=32&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Ol%C3%A1%2C+eu+sou+Eduardo!)](https://github.com/eduardosilsantos)
-**`Desenvolvedor Full Stack`**
+# [![👋🏻👨🏻‍💻 Hello, I'm Eduardo!](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=32&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Hello%2C+I'm+Eduardo!)](https://github.com/eduardosilsantos)
+**`Full Stack Developer`**
 
-💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas formado pela 🎓&nbsp;[Unisinos](https://www.unisinos.br/)
+💻 I hold a degree in Systems Analysis and Development Technology from 🎓&nbsp;[Unisinos](https://www.unisinos.br/)
 
-🔍 Sempre busco oportunidades para aplicar meus conhecimentos em projetos reais e colaborar com equipes inovadoras.
+🔍 I'm always seeking opportunities to apply my knowledge in real projects and collaborate with innovative teams.
 
-🚀 Motivado pelo aprendizado constante, espírito de equipe e capacidade de adaptação, estou preparado para contribuir de forma significativa em ambientes que valorizem inovação, colaboração e excelência.
+🚀 Driven by continuous learning, teamwork, and adaptability, I'm prepared to contribute meaningfully in environments that value innovation, collaboration, and excellence.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
-- **Linguagens**: JavaScript, TypeScript, Java, Python;
-- **Ferramentas**: Git, Docker, VS Code, NodeJS;
+- **Languages**: JavaScript, TypeScript, Java, Python;
+- **Tools**: Git, Docker, VS Code, NodeJS;
 - **Frameworks**: React, Angular, NestJS;
-- **Testes**: Jest;
+- **Testing**: Jest;
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img 
@@ -145,40 +145,18 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </a>
 
-**Fonte: [Devicon](https://devicon.dev)**
+**Source: [Devicon](https://devicon.dev)**
 
-## 📊 Estatísticas
+## 📊 Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSilSantos&theme=gruvbox-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://github.com/eduardosilsantos)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSilSantos&theme=gruvbox-duo&hide_border=true&locale=en)](https://github.com/eduardosilsantos)
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 <a href="https://linkedin.com/in/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/eduardosilsantos"><img src="https://img.shields.io/badge/-black?logo=github" width="50" height="50" /></a>
 ### 🧩[GitHub Gists](https://gist.github.com/EduardoSilSantos)
 
-<!-- <a href="https://github.com/eduardosilsantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></a> -->
+[![followers](https://custom-icon-badges.demolab.com/github/followers/EduardoSilSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white "Follow me on Github")](https://github.com/EduardoSilSantos?tab=followers)
+[![total stars](https://custom-icon-badges.demolab.com/github/stars/EduardoSilSantos?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=stars "Total star rating on GitHub")](https://github.com/EduardoSilSantos?tab=repositories&sort=stargazers)
 
-<!-- <a href="https://www.youtube.com/@eduardoweb?sub_confirmation=1">
-<img alt="inscritos no youtube" title="Inscreva-se no meu canal no YouTube"src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCdifSzOiTZ7jbpDwdqTppOw?color=%23E05D44&label=INSCREVA-SE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-<a href="https://www.youtube.com/@eduardoweb">
-<img alt="youtube views" title ['YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCdifSzOiTZ7jbpDwdqTppOw?color=55960c&logo=eye&logoColor=white&style=for-the-badge&labelColor=488207"/></a> -->  
-
-[![seguidores](https://custom-icon-badges.demolab.com/github/followers/EduardoSilSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white "Siga-me no Github")](https://github.com/EduardoSilSantos?tab=followers)
-[![total de estrelas](https://custom-icon-badges.demolab.com/github/stars/EduardoSilSantos?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas "Total de estrelas no GitHub")](https://github.com/EduardoSilSantos?tab=repositories&sort=stargazers)
-
-**Estilizado com 🎨[Demolab](https://demolab.com/)✨**
-
-<!--
-**EduardoSilSantos/EduardoSilSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Styled with 🎨[Demolab](https://demolab.com/)✨**
